@@ -42,3 +42,9 @@ Ainsi, il serait possible d'effectuer des statitiques sur la féréquence d'idne
 autant la rendre visibile sur les photos.
 
 _WIP_
+
+## Licence
+
+MIT License
+
+Copyright (c) 2016 Arnaud Ligny
