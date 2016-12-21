@@ -15,7 +15,24 @@ De plus, afin de permettre une exploitation des données collectées via de mult
 
 ## Conception fonctionnelle et UX
 
-### Wireframes
+### Données
+
+| Intitulé   | Description                      | Requis |
+|------------|----------------------------------|--------|
+| id         | L'identifiant unique             | Oui    |
+| date       | La date et l'heure de la collecte| Oui    |
+| photo      | La photo prise par l'utilisateur | Oui    |
+| utilisateur| L'identifiant de l'utilisateur   | Oui    |
+| longitude  | La longitude                     | Oui    |
+| latitude   | La latitude                      | Oui    |
+| adresse    | L'adresse postale                | Non    |
+| type       | ex: "trottoir", "piste cyclable" | Non    |
+| catégorie  | La catégorie du véhicule         | Non    |
+
+Concernant la catégorie du véhicule, se référer à [_La définition des catégories de véhicules_](http://www.developpement-durable.gouv.fr/La-definition-des-categories-de,12402.html).
+
+
+### Écrans (wireframes)
 
 _À faire._
 
@@ -43,8 +60,9 @@ Web "classique", proposant une vue carte par exemple.
 
 ##### Auto-hébergé
 
-1. [Apigility](https://apigility.org)
-2. [API Platform](https://api-platform.com)
+1. [Apigility](https://apigility.org) (PHP)
+2. [API Platform](https://api-platform.com) (PHP)
+3. [LoopBack](https://loopback.io) (Node.js)
 
 ##### [SaaS](http://fr.wikipedia.org/wiki/SaaS)
 
