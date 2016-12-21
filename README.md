@@ -31,7 +31,6 @@ De plus, afin de permettre une exploitation des données collectées via de mult
 
 Concernant la catégorie du véhicule, se référer à [_La définition des catégories de véhicules_](http://www.developpement-durable.gouv.fr/La-definition-des-categories-de,12402.html).
 
-
 ### Écrans (wireframes)
 
 _À faire._
@@ -49,9 +48,9 @@ La technologie envisagée est [React Native](https://facebook.github.io/react-na
 1. un même coeur "métier" quelque soit la plateforme visée (approche hybride)
 2. une construction par composant natif afin de garantir une expérience utilisateur efficace
 
-### Backend
+### Serveur
 
-Le backend de l'application (l'[API](https://fr.m.wikipedia.org/wiki/Interface_de_programmation)) s'appuyera sur le protocole [REST](https://fr.m.wikipedia.org/wiki/Representational_state_transfer) pour des raisons évidentes d'interopérabilité.
+Le serveur de l'application (l'[API](https://fr.m.wikipedia.org/wiki/Interface_de_programmation)) s'appuyera sur le protocole [REST](https://fr.m.wikipedia.org/wiki/Representational_state_transfer) pour des raisons évidentes d'interopérabilité.
 
 Il sera ainsi possible d'alimenter et d'exploiter les données via différents frontends : l'application mobile, mais aussi un site 
 Web "classique", proposant une vue carte par exemple.
@@ -68,7 +67,7 @@ Web "classique", proposant une vue carte par exemple.
 
 1. [Firebase](https://firebase.google.com)
 
-## Points d'attention
+## Annexes
 
 ### Législation
 
@@ -76,6 +75,13 @@ Il semblerait (à documenter) qu'il ne soit pas possible de collecter des numér
 
 Aussi, une solution envisageable serait de collecter les numéros de plaque mais de les [obfusquer](https://fr.wiktionary.org/wiki/obfusquer) lors de la consultation.
 Ainsi, il serait possible d'effectuer des statitiques - anonyme - sur la féréquence d'identification d'un numéro de plaque d'immatriculation, sans pour autant la rendre visibile sur les photos.
+
+### Initiatives comparables
+
+* https://github.com/mathieuruellan/gcummap
+* Application mobile (Android) par [@glullien](https://twitter.com/glullien) et [@veloklash](https://twitter.com/veloklash)
+* https://github.com/infinitesunrise/carsinbikelanes
+* https://github.com/jessamynsmith/my-bike-lane-mobile
 
 ## Licence
 
