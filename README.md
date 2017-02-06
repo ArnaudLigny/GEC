@@ -79,7 +79,7 @@ Ainsi, il serait possible d'effectuer des statitiques - anonyme - sur la féréq
 ### Initiatives comparables
 
 * https://github.com/mathieuruellan/gcummap
-* Application mobile (Android) par [@glullien](https://twitter.com/glullien) et [@veloklash](https://twitter.com/veloklash)
+* https://github.com/glullien/GCUMFisherAndroid (par [@glullien](https://twitter.com/glullien) et [@veloklash](https://twitter.com/veloklash))
 * https://github.com/infinitesunrise/carsinbikelanes
 * https://github.com/jessamynsmith/my-bike-lane-mobile
 
@@ -87,4 +87,4 @@ Ainsi, il serait possible d'effectuer des statitiques - anonyme - sur la féréq
 
 MIT License
 
-Copyright (c) 2016 Arnaud Ligny
+Copyright (c) Arnaud Ligny
