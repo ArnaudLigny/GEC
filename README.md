@@ -80,8 +80,8 @@ Ainsi, il serait possible d'effectuer des statitiques - anonyme - sur la féréq
 
 * https://github.com/mathieuruellan/gcummap
 * https://github.com/glullien/GCUMFisherAndroid (par [@glullien](https://twitter.com/glullien) et [@veloklash](https://twitter.com/veloklash))
-* https://github.com/infinitesunrise/carsinbikelanes
-* https://github.com/jessamynsmith/my-bike-lane-mobile
+* https://github.com/infinitesunrise/carsinbikelanes (https://carsinbikelanes.nyc)
+* https://github.com/jessamynsmith/my-bike-lane-mobile (https://github.com/jessamynsmith/my-bike-lane-mobile)
 
 ## Licence
 
