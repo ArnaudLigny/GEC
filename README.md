@@ -1,15 +1,14 @@
 # GEC = Garé En Chiasse
 
-_French only (for the moment)._
+_French only_
 
-_WIP / Travail en cours._
+> Idées, réflexions et solutions quant à la mise en œuvre d'un outil de déclaration de véhicules ma garés.
 
 ## Objectif
 
-L'objectif de ce dépôt est de réunir idées, reflexions et solutions quant à la mise en oeuvre d'un outil de déclaration de véhicules "garés en chiasse", c'est à dire (très) mal garés, tel que : sur un [trottoir](https://fr.m.wikipedia.org/wiki/Trottoir), sur une [piste cyclable](https://fr.m.wikipedia.org/wiki/Am%C3%A9nagement_cyclable#Piste_cyclable), sur un [passage piéton](https://fr.m.wikipedia.org/wiki/Passage_pi%C3%A9ton), etc.
+L'objectif de ce dépôt est de réunir idées, réflexions et solutions quant à la mise en œuvre d'un outil de déclaration de véhicules "garés en chiasse", c'est à dire (très) mal garés, tel que : sur un [trottoir](https://fr.m.wikipedia.org/wiki/Trottoir), sur une [piste cyclable](https://fr.m.wikipedia.org/wiki/Am%C3%A9nagement_cyclable#Piste_cyclable), sur un [passage piéton](https://fr.m.wikipedia.org/wiki/Passage_pi%C3%A9ton), etc.
 
-Pour ce faire, l'outil devra être simple d'utilisation et mobile.
-Ainsi, une application pour téléphone mobile (iOS et Android) semble le plus adaptée.
+Pour ce faire, l'outil devra être simple d'utilisation et mobile. Ainsi, une application pour téléphone mobile (iOS et Android) semble le plus adaptée.
 
 De plus, afin de permettre une exploitation des données collectées via de multiples supports, il apparait judicieux que ces données soient stockées et accessibles via un service en ligne (donc via une API normalisée).
 
