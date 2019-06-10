@@ -1,4 +1,4 @@
-# GEC = Garé En Chiasse
+# Garé En Chiasse
 
 _French only_
 
