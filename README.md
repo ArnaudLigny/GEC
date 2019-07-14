@@ -1,8 +1,8 @@
-# Garé En Chiasse
+# GEC
 
 _French only_
 
-> Idées, réflexions et solutions quant à la mise en œuvre d'un outil de déclaration de véhicules ma garés.
+> Idées, réflexions et solutions quant à la mise en œuvre d'un outil de déclaration de véhicules Garés En Chiasse.
 
 ## Objectif
 
